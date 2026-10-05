@@ -1,16 +1,16 @@
 {
-  "version": "0.8.1",
+  "version": "0.8.2",
   "description": "HTTP/HTTPS proxy with NTLM, Kerberos and corporate proxy authentication",
   "homepage": "https://github.com/khanhkit/pxgo",
   "license": "MIT",
   "architecture": {
     "64bit": {
-      "url": "https://github.com/khanhkit/pxgo/releases/download/v0.8.1/pxgo_windows_amd64.zip",
-      "hash": "ec3352f67689e895edf774797c25d90910e44d8035e185d4d01a11c18057206c"
+      "url": "https://github.com/khanhkit/pxgo/releases/download/v0.8.2/pxgo_windows_amd64.zip",
+      "hash": "6ea3fec9ee8bcd27a22f6ec474a1e0faa9c032bf094fc7940a8de1b0597944df"
     },
     "arm64": {
-      "url": "https://github.com/khanhkit/pxgo/releases/download/v0.8.1/pxgo_windows_arm64.zip",
-      "hash": "45be1fd059cd538b2e054b75227c6d27eec22753b7317a0a670b0352bd90a90c"
+      "url": "https://github.com/khanhkit/pxgo/releases/download/v0.8.2/pxgo_windows_arm64.zip",
+      "hash": "c651548a44360e611ed0e2f6071235dde564e3adf26dcfdbdcb5833c8e3f582d"
     }
   },
   "bin": "pxgo.exe",
